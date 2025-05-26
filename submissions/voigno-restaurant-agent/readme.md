@@ -292,6 +292,8 @@ This project is submitted for:
 
 ## 🎥 Demo Video
 
+[![VoiGno Restaurant Agent Demo](https://img.youtube.com/vi/UYleCCIC6Wg/maxresdefault.jpg)](https://www.youtube.com/watch?v=UYleCCIC6Wg)
+
 **Watch the system in action:** [VoiGno Restaurant Agent Demo](https://www.youtube.com/watch?v=UYleCCIC6Wg)
 
 *2-3 minute demonstration showing the complete voice booking workflow from customer call to confirmation*
@@ -303,7 +305,7 @@ This project is submitted for:
 
 ## 👥 Team Information
 
-**Team Lead**: @Allenmylath - Full-stack developer and AI engineer
+**Team Lead**: [Your GitHub handle] - Full-stack developer and AI engineer
 **Background**: Experienced in voice AI systems, restaurant technology, and conversational interfaces
 
 ## 📝 Additional Notes
