@@ -151,6 +151,7 @@ GROQ_API_KEY=your_groq_api_key
 5. **Configure Twilio Webhook**
    - Set your Twilio webhook URL to point to your Modal deployment
    - Use the `/twiml` endpoint for call handling
+   - Configure the correct wss connection link inside templates/streams.xml
 
 6. **Run Administrative Dashboard** (Optional)
    ```bash
