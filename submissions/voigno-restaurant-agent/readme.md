@@ -303,7 +303,7 @@ This project is submitted for:
 
 ## 👥 Team Information
 
-**Team Lead**: [Your GitHub handle] - Full-stack developer and AI engineer
+**Team Lead**: @Allenmylath - Full-stack developer and AI engineer
 **Background**: Experienced in voice AI systems, restaurant technology, and conversational interfaces
 
 ## 📝 Additional Notes
