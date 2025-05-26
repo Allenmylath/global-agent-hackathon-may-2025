@@ -123,9 +123,7 @@ AWS_SECRET_ACCESS_KEY=your_aws_secret_key
 AWS_REGION=us-east-1
 
 # Optional: Alternative LLM providers
-CEREBRAS_API_KEY=your_cerebras_api_key
 GROQ_API_KEY=your_groq_api_key
-GOOGLE_API_KEY=your_google_api_key
 ```
 
 ### Installation
@@ -196,7 +194,7 @@ Jessica: "Wonderful! Your reservation is confirmed for tomorrow at 7 PM, window 
 ```
 
 ### For Restaurant Staff (Web Dashboard)
-1. **Access the Streamlit dashboard**
+1. **Access the Streamlit dashboard** at: https://manjujayamurali--modal-streamlit-run.modal.run/
 2. **Select date** to view/manage bookings
 3. **Initialize data** for new dates as needed
 4. **View table layout** with real-time availability
@@ -252,7 +250,7 @@ Jessica: "Wonderful! Your reservation is confirmed for tomorrow at 7 PM, window 
    - Cancellation requests
 
 ### Web Dashboard Testing
-1. Access Streamlit interface
+1. Access Streamlit interface at: https://manjujayamurali--modal-streamlit-run.modal.run/
 2. Initialize data for test dates
 3. Make bookings through web interface
 4. Verify phone system reflects changes
@@ -294,7 +292,14 @@ This project is submitted for:
 
 ## 🎥 Demo Video
 
-[Link to 2-3 minute demo video showing the system in action]
+**Watch the system in action:** [VoiGno Restaurant Agent Demo](https://www.youtube.com/watch?v=UYleCCIC6Wg)
+
+*2-3 minute demonstration showing the complete voice booking workflow from customer call to confirmation*
+
+## 🌐 Live Demo
+
+- **Administrative Dashboard**: https://manjujayamurali--modal-streamlit-run.modal.run/
+- **Phone System**: Call **+1 (775) 429-7976** to test voice interactions with Jessica
 
 ## 👥 Team Information
 
