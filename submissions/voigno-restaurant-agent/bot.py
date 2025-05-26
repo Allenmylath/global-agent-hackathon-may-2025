@@ -47,13 +47,13 @@ logger.remove(0)
 logger.add(sys.stderr, level="DEBUG")
 
 # Username and password for MongoDB
-username = "allenmylath"
-password = "Mylath@90"
+username = "Your Username"
+password = "Your Password"
 
 # Encode the username and password using urllib.parse.quote_plus
 encoded_username = urllib.parse.quote_plus(username)
 encoded_password = urllib.parse.quote_plus(password)
-mdb_connection_string = f"mongodb+srv://{encoded_username}:{encoded_password}@cluster0.odks5gc.mongodb.net/?retryWrites=true&w=majority"
+mdb_connection_string = f"mongodb+srv://{encoded_username}:{encoded_password}mongo uri"
 
 
 async def capture_phone_number_and_update_agent(call_sid: str, agent: Agent):
