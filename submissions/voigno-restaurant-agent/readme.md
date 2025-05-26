@@ -1,10 +1,10 @@
-# VoiGno Restaurant Agent 🍽️📞
+# VoiGno Restaurant Agent 🍽️📞 with interruption
 
 A sophisticated voice-powered restaurant booking system that combines Agno AI agents with real-time phone interactions through Twilio. Customers can call to make, modify, and check their restaurant reservations using natural voice conversations.
 
 ## 🎯 Project Overview
 
-VoiGno is an intelligent restaurant booking assistant named "Jessica" that handles phone calls from customers wanting to make reservations at Luciya Restaurant. The system uses advanced AI to understand natural language, manage table availability, and provide a seamless booking experience over the phone.
+VoiGno is an intelligent restaurant booking assistant named "Jessica" that handles phone calls from customers wanting to make reservations at Luciya Restaurant. The system uses advanced AI to understand natural language, manage table availability, and provide a seamless booking experience over the phone.The bot has interruption capabilities.
 
 ### What Problem Does It Solve?
 
