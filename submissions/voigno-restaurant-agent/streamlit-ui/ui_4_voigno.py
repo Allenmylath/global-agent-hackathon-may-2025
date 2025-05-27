@@ -14,15 +14,15 @@ st.set_page_config(page_title="Restaurant Booking System", layout="wide")
 def get_database():
     try:
         # MongoDB Atlas connection credentials
-        username = "allenmylath"
-        password = "Mylath@90"
+        username = "username"
+        password = "password"
 
         # Encode the username and password
         encoded_username = urllib.parse.quote_plus(username)
         encoded_password = urllib.parse.quote_plus(password)
 
         # MongoDB Atlas connection string
-        mdb_connection_string = f"mongodb+srv://{encoded_username}:{encoded_password}@cluster0.odks5gc.mongodb.net/?retryWrites=true&w=majority"
+        mdb_connection_string = f"mongodb+srv://{encoded_username}:{encoded_password}@mongouri"
 
         # Connect to MongoDB Atlas
         client = MongoClient(mdb_connection_string)
