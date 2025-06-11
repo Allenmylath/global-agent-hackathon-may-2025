@@ -337,7 +337,7 @@ with col1:
                     )
                     st.balloons()
                     # Refresh page to update data
-                    st.experimental_rerun()
+                    st.rerun()
                 else:
                     st.error("Failed to book table")
         else:
@@ -413,7 +413,7 @@ with col2:
                             f"Booking for {selected_booking} cancelled successfully"
                         )
                         # Refresh page to update data
-                        st.experimental_rerun()
+                        st.rerun()
                     else:
                         st.error("Failed to cancel booking")
         else:
